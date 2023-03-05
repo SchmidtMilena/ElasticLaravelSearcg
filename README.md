@@ -1,2 +1,2 @@
 # InvoiceSearch
-Elasticserach + Larave 10
+Elasticserach + Laravel 10
